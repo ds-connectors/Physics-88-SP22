@@ -1,0 +1,10 @@
+One more line
+And another
+Welcome to Physics 77, Spring 2021
+Topics we will learn about include:
+Data types
+Loops
+Functions
+Arrays
+Plotting
+Statistics
